@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-## Name :Rogith J
-## Roll no :212224040280
+## Name :shaik lahir
+## Roll no :212224240148
 ## Date of Experiment :04-08-2026
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
